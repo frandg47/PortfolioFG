@@ -5,7 +5,7 @@ const skillItem = [
     {
       imgSrc: './public/images/c#.jpg',
       label: 'C#',
-      desc: 'Programación Orientada a Objetos'
+      desc: 'Winforms y POO'
     },
     {
       imgSrc: './public/images/sqlserver.png',
@@ -49,10 +49,14 @@ const Skill = () => {
                 Descubre las poderosas herramientas y tecnologias que utilizo para crear aplicaciones & sitios web de alta calidad
             </p>
 
-            <div className="">
+            <div className="grid gap-3 grid-cols-[repeat(auto-fill,_minmax(250px,_1fr))]">
                 {
                     skillItem.map(({ imgSrc, label, desc }, key) => (
-                        <SkillCard />
+                        <SkillCard 
+                        imgSrc={imgSrc}
+                        label={label}
+                        desc={desc}
+                        />
                     )
                 )
                 }

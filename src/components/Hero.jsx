@@ -28,7 +28,7 @@ const Hero = () => {
                         </div>
                     </div>
                     <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-                        Hola, soy Franco. Desarrollo sitios rápidos, escalables y elegantes.
+                        Hola, soy Franco. Desarrollo aplicaciones rápidas, escalables y elegantes.
                     </h2>
 
                     <div className="flex items-center gap-3">
@@ -47,7 +47,7 @@ const Hero = () => {
                 <div className="hidden lg:block">
                     <figure className="w-full max-w-[400px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
                         <img
-                            src="../public/franco-hero.png"
+                            src="../public/francoHero.png"
                             width={656}
                             height={800}
                             alt="Franco Giacobbe"
