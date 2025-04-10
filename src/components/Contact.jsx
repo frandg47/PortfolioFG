@@ -35,7 +35,7 @@ const Contact = () => {
 
     return (
         <section
-            id="section"
+            id="contact"
             className="section">
             <div className="container lg:grid lg:grid-cols-2 lg:items-stretch">
 
