@@ -3,7 +3,7 @@ import React from 'react'
 // Primary Button
 const ButtonPrimary = ({
     href,
-    target = '_self',
+    target = '_blank',
     label,
     icon,
     classes
@@ -11,6 +11,7 @@ const ButtonPrimary = ({
     if (href) {
         return(
             <a
+                download
                 href={href}
                 target={target}
                 className={"btn btn-primary " + classes}>

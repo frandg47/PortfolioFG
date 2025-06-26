@@ -35,12 +35,7 @@ const Hero = () => {
                         <ButtonPrimary
                             label="Descargar CV"
                             icon="download"
-                        />
-
-                        <ButtonOutline
-                            href="#about"
-                            label="Scroll hacia abajo"
-                            icon="arrow_downward"
+                            href={"/CVGiacobbeFranco.pdf"}
                         />
                     </div>
                 </div>
