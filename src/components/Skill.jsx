@@ -8,29 +8,34 @@ const skillItem = [
       desc: 'Winforms y POO'
     },
     {
-      imgSrc: './public/images/sqlserver.png',
+      imgSrc: '/images/sqlserver.png',
       label: 'SQL Server',
       desc: 'Base de datos relacional'
     },
     {
-      imgSrc: './public/images/mongo.png',
+      imgSrc: '/images/mongo.png',
       label: 'MongoDB',
       desc: 'Base de datos NoSQL'
     },
     {
-      imgSrc: './public/images/express.png',
+      imgSrc: '/images/express.png',
       label: 'ExpressJS',
       desc: 'Framework para Node.js'
     },
     {
-      imgSrc: './public/images/react.png',
+      imgSrc: '/images/react.png',
       label: 'React',
       desc: 'Librería frontend'
     },
     {
-      imgSrc: './public/images/node.jpg',
+      imgSrc: '/images/node.jpg',
       label: 'NodeJS',
       desc: 'Entorno de ejecución'
+    },
+    {
+      imgSrc: '/images/node.jpg',
+      label: 'MySql',
+      desc: 'Base de datos relacional'
     }
   ];
   
