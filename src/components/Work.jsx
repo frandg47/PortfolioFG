@@ -24,7 +24,6 @@ const works = [
     imgSrc: "../public/projectSystemGym.png",
     title: "Sistema de gestion gym",
     tags: ["Capas", "POO", "SQL"],
-    projectLink: "https://github.com/frandg47",
   },
 ];
 
