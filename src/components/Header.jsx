@@ -15,7 +15,7 @@ const Header = () => {
                         className="logo">
 
                         <img
-                            src="../public/logo-removebg-preview.png"
+                            src="/logo-removebg-preview.png"
                             alt="Giacobbe Franco"
                             width={40}
                             height={40} />
