@@ -5,23 +5,23 @@ const works = [
   {
     imgSrc: "/projectGioArqui.png",
     title: "Gio Arqui | Diseño & Construcción",
-    tags: ["ReactVite", "MongoDB", "Express"],
+    tags: ["ReactVite", "MongoDB", "API"],
     projectLink: "https://gioarqui.com",
   },
   {
     imgSrc: "",
     title: "Delivery Flash App",
-    tags: ["API", "SQL", ""],
+    tags: ["API", "mysql", "ReactVite"],
     projectLink: "https://github.com/frandg47",
   },
   {
-    imgSrc: "../public/projectAppHotel.png",
+    imgSrc: "/projectAppHotel.png",
     title: "Full stack hotel app",
     tags: ["API", "Scrum", "Development"],
     projectLink: "https://rolling-hotel.netlify.app/",
   },
   {
-    imgSrc: "../public/projectSystemGym.png",
+    imgSrc: "/projectSystemGym.png",
     title: "Sistema de gestion gym",
     tags: ["Capas", "POO", "SQL"],
   },

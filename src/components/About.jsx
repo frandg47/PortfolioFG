@@ -3,11 +3,11 @@ import React from 'react'
 const aboutItems = [
     {
         label: 'Proyectos personales',
-        number: 2
+        number: 4
     },
     {
         label: 'Tecnologías aprendidas',
-        number: 8
+        number: 10
     },
     {
         label: 'Años de formación',
@@ -47,7 +47,7 @@ const About = () => {
 
 
                         <img
-                            src="../public/logo-removebg-preview.png"
+                            src="/logo-removebg-preview.png"
                             alt="Logo"
                             width={30}
                             height={30}
