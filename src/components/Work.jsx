@@ -9,10 +9,10 @@ const works = [
     projectLink: "https://gioarqui.com",
   },
   {
-    imgSrc: "",
+    imgSrc: "/projectFlashDelivery.png",
     title: "Delivery Flash App",
     tags: ["API", "mysql", "ReactVite"],
-    projectLink: "https://github.com/frandg47",
+    projectLink: "https://flash-delivery-express.vercel.app/",
   },
   {
     imgSrc: "/projectAppHotel.png",
